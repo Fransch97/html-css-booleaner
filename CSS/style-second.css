@@ -4,6 +4,9 @@ footer,main,header section{
     width: 80%;
     margin: 0 auto;
 }
+nav img{
+    margin-left: 90px;
+}
 main section img{
     width:400px;
     height: 300px;
