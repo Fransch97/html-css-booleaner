@@ -1,9 +1,8 @@
 /*GENERAL*/
 body{
     margin: 0 auto;
-    font-weight: bold;
     width: 1100px;
-    box-sizing: border-box;
+    font-size: 20px;
 
 }
 /*END OF GENERAL*/
@@ -13,6 +12,9 @@ body{
 /* UTLITY*/
 section{
     margin-top: 20px;
+}
+.yellow{
+    background-color: yellow;
 }
 /*END OF UTLITY*/
 
@@ -44,7 +46,7 @@ h1,h3{
 h3{
     color: #7A7A7A ;
 }
-#tb{
+#author{
     color: #20A9E5;
 }
 #date{font-size: 14px;}
@@ -57,9 +59,44 @@ h3{
 
 /*MAIN*/
 
+/* img with description and text */
+#img-desc{
+    font-size: 13px;
+    margin: 0;
+}
+
+
+
+ul{padding: 15px;}
+/* /img with description and text */
+
+/*tablle*/
+.long2{
+    width: 800px;
+}
+table{
+    border: #20A9E5;
+    border-spacing: 0;
+}
+thead{
+    background-color: #20A9E5 ;
+    margin: 0;
+    color: white;
+}
+.bluspace{
+    background-color: #B1E5F2;
+}
+
+td{
+    text-align: center;
+    width: 300px;
+    
+}
+/* /tablle*/
 
 /*END OF MAIN*/
 
 /*FOOTER*/
+
 /*END OF FOOTER*/
 
