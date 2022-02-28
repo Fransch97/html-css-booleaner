@@ -97,6 +97,22 @@ td{
 /*END OF MAIN*/
 
 /*FOOTER*/
+footer{
+    color: white;
+}
+#con1,#con2{
+    background-color:green;
+    width: 250px;
+    height: 200px;
+    margin-top: 15px;
+}
+#con1{
+    background-image: url(../IMG/monitor.jpg);
+}
+#con2{
+    background-image: url(../IMG/graph.jpg);
+    margin-bottom: 20px;
+}
 
 /*END OF FOOTER*/
 
