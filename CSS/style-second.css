@@ -1,0 +1,10 @@
+/*!!!!!!!!!!!!!!!!!!!!!!!!ONLY FOR BONUS IF YOU WANT TO SEE OLD STYLE COMMENT DE LINK IN INDEX.HTML TO SHUT DOWN THIS FILE CSS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+footer,main,header section{
+    width: 80%;
+    margin: 0 auto;
+}
+main section img{
+    width:400px;
+    height: 300px;
+}
