@@ -13,7 +13,7 @@ body{
 section{
     margin-top: 20px;
 }
-.yellow{
+.line{
     background-color: yellow;
 }
 /*END OF UTLITY*/
@@ -83,7 +83,7 @@ thead{
     margin: 0;
     color: white;
 }
-.bluspace{
+.with-backgroundcolor{
     background-color: #B1E5F2;
 }
 
@@ -113,6 +113,8 @@ footer{
     background-image: url(../IMG/graph.jpg);
     margin-bottom: 20px;
 }
-
+h4{
+    padding: 10px;
+}
 /*END OF FOOTER*/
 
